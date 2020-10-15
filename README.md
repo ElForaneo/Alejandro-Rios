@@ -1,2 +1,2 @@
 # Dise-o-de-Software
-Pase de lista normal (beta)
+Pues este repositorio es para la clase de Diseño de Software :U
